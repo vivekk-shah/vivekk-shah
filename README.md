@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekk-shah
 - 👀 I’m interested in mindblowing tech stuffs
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on something related to devops
+- 💞️ I’m looking to collaborate on something related to Data Engineering
 - 📫 How to reach me @ig-blame_vivek
 
 <!---
